@@ -113,7 +113,6 @@ enum agm_media_format
     AGM_FORMAT_G711,            /**< G711 codec */
     AGM_FORMAT_QCELP,            /**< G711 codec */
     AGM_FORMAT_OPUS,            /**< OPUS codec */
-    AGM_FORMAT_MAX,
 };
 
 /**
